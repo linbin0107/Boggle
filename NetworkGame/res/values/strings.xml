@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">NetworkGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_p2">P2Activity</string>
+    <string name="title_activity_server">ServerActivity</string>
+    <string name="title_activity_client">ClientActivity</string>
+    <string name="title_activity_p2_next">P2Next</string>
+
+</resources>
